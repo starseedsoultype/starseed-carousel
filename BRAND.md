@@ -83,15 +83,25 @@ The last line of a slide is short and quiet.
    The reading illuminates the connection; it never prosecutes a partner.
 7. No corporate tone, no AI-generic filler, no hype. Quiet accuracy only.
 
-## Content priorities (what converts, from live data)
+## Content priorities and CTA routing (what converts, from live data)
 
-1. **Connections first.** Carousels about a specific relationship dynamic (the pull,
-   the distance, the return, the recognition) speak to the largest and warmest part of
-   the audience. Default CTA: the Soul Connection quiz.
-2. **Type recognition second.** Carousels that describe one origin's inner experience
-   so precisely that the reader tags herself. CTA: the Origin Scan.
-3. Every carousel ends with ONE CTA, one link destination, stated calmly. The reader
-   is invited to find out, never pushed to buy.
+Three CTA lanes. Every carousel ends with ONE CTA, one link destination, stated
+calmly. The reader is invited to find out, never pushed to buy. Pick the lane by the
+reader's emotional state, and never mix lanes:
+
+1. **Connection pain → Soul Connection quiz.** Carousels about a SPECIFIC person and
+   a specific relationship dynamic (the pull, the distance, the return, the
+   recognition). This reader is consumed by one person; she wants to understand that
+   bond. CTA: https://www.starseedsoultype.com/connection-quiz.html. NEVER send this
+   reader to the dating app: she is inside a connection, an app offer misreads her.
+2. **Type recognition → Origin Scan.** Carousels that describe one origin's inner
+   experience so precisely that the reader tags herself.
+   CTA: https://www.starseedsoultype.com/quiz.html.
+3. **Anticipation → TwinFrequency app.** Carousels for the reader who is free,
+   dreams of a real relationship, and is quietly getting ready for it. Behavioral
+   framing only (what readiness looks like in her actions and choices), no fate or
+   premonition. CTA: https://twinfrequency.io. NEVER attach this CTA to heartbreak
+   or specific-person content.
 
 ## Signature line (may close a caption)
 
