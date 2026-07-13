@@ -27,6 +27,12 @@ Sites and products:
 - NOT astrology, NOT MBTI, NOT Human Design. Never compare to them, never mention them.
 - NOT fortune telling and NOT prediction. It describes how a person is built, never
   what will happen to them.
+- NOT spiritual content. This is a behavioral typology wearing cosmic names. Every
+  topic must describe observable behavior the reader can verify in herself today:
+  what she does, feels, repeats, avoids. Banned frames: signs, synchronicities,
+  divine timing, "the universe sent this", "if this found you", energies doing
+  things to people, fate deciding anything. The magic comes from precision of
+  recognition, never from mysticism.
 - NOT therapy and NOT medical or psychological treatment.
 
 ## The audience (who is actually reading)
